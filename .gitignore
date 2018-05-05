@@ -45,6 +45,7 @@ babel_cache
 
 #Build
 build
+dist
 
 #Server Log
 var
